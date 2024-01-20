@@ -12,13 +12,13 @@ export const testimonialsData = [
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
+    review: 'FitClub has been an amazing place for training to achieve my ideal body result. My instructor gave me a reasonable support ',
     name: 'JOHN KEVIN',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:' I was able to burn excess fat and achieved my ideal body goal. Now i train once in a while at FitClub',
     name: 'FRANKLIN',
     status: "CUSTOMER"
   }
