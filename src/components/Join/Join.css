@@ -60,7 +60,7 @@
     }
     .left-j{
         font-size: x-large;
-        flex-direction: column;
+        flex-direction: column ;
     }
     .right-j{
         padding: 2rem;

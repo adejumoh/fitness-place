@@ -68,7 +68,7 @@
         font-size: x-large;
         align-items: center;
         justify-content: center;
-        margin-top: 2rem;
+        margin-top:2rem;
     }
     .program-categories{
         flex-direction: column;

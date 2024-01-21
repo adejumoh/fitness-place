@@ -7,7 +7,7 @@ import leftArrow from "../../assets/leftArrow.png";
 import { motion } from 'framer-motion';
 
 const Testimonials = () => {
-    const transition = {type: 'spring', duration: 3}
+    const transition = {type:'spring', duration: 3}
     const [selected, setSelected] = useState(0);
     const tLength = testimonialsData.length;
 

@@ -46,7 +46,7 @@ const Hero = () => {
                 </div>
             </div>
             {/* figures */}
-            <div className="figures">
+            <div className="figures ">
                 <div>
                     <span>
                         <NumberCounter end={140} start={100} delay='4' preFix="+"/>

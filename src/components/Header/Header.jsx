@@ -29,7 +29,7 @@ const Header = () => {
                 onClick={()=>setMenuOpened(false)}
                 activeClass='active'
                 to='home'
-                span={true}
+                span={true }
                 smooth={true}
               >Home</Link>
             </li>
